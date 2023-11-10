@@ -1,0 +1,86 @@
+0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270:310000000:310999999 #100 PRINT by Ben Kovach
+0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676:29000000:29999999 #100 Sunsets by Zach Lieberman
+0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676:25000000:25999999 #1935 by William Mapan
+0xb7ec7bbd2d2193b47027247fc666fb342d23c4b5:100000:109999 #AI Art is Not Art by Claire Silver
+0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270:304000000:304999999 #Anticyclone by William Mapan
+0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270:23000000:23999999 #Archetype by Kjetil Golid
+0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270:281000000:281999999 #Automatism by Yazid
+0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270:214000000:214999999 #Bent by ippsketch
+0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676:22000000:22999999 #Bosque de Chapultepec by Daniel Calderon Arenas
+0xaee0a67634447a2498f82867518eab7cecac07ef #BURNER by James Bloom
+0x45c67b2b81067911de611e11fc5c7a4605ca4162 #byteGANs
+0x99a9b7c1116f9ceeb1652de04d5969cce509b069:416000000:416999999 #Calian by Eric De Giuli
+0x99a9b7c1116f9ceeb1652de04d5969cce509b069:426000000:426999999 #Cargo by Kim Asendorf
+0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270:233000000:233999999 #Chimera by mpkoz
+0x059edd72cd353df5106d2b9cc5ab83a52287ac3a:0:999999 #Chromie Squiggle by Snowfro
+0xda1bf9b5de160cecde3f9304b187a2f5f5b83707 #CHRONOPHOTOGRAPH by 0xDEAFBEEF
+0x35b5aafc427af9ebb551ef151ec468fe07df9e16 #Computers Can't Jump by Ben Millar Cole
+0xd754937672300ae6708a51229112de4017810934 #Deafbeef
+0xa6ef3896435e5867472cc33bb53925fcc03b835f #DEGENERATIVE by DEAFBEEF
+0xd7483426ea2edc69cc446859e20d61de1bae4d22 #DEAFBEEF2
+0x37fa4aca3125660d4b8f4a6b1d0ab8af6a6c1f13 #Deafbeef x Bright Moments | Hashmarks Mint Pass | MPDB
+0x97e764ce354a25802e6b004910135a717d223ff2 #PAYPHONE by 0xDEAFBEEF
+0xd70f41dd5875eee7fa9dd8048567bc932124a8d2 #DeepBlack
+0x880af717abba38f31ca21673843636a355fb45f3 #DRIP DROP  BY DAVE KRUGMAN
+0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270:204000000:204999999 #Edifice by Ben Kovach
+0x27787755137863bb7f2387ed34942543c9f24efe #Factura by Mathias Isaksen
+0xa8a425864db32fcbb459bf527bdbb8128e6abf21 #Fellowship Patron Pass
+0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270:78000000:78999999 #Fidenza by Tyler Hobbs
+0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676:8000000:8999999 #FOLIO by Matt DesLauriers
+0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270:367000000:367999999 #Fontana by Harvey Rayner | patterndotco
+0x942bc2d3e7a589fe5bd4a5c6ef9727dfd82f5c8a:0:999999 #Friendship Bracelets by Alexis André
+0x992bc6873706a1564e3a50f1778f86a80f5bd6fb #Funhouse Mirror by Charlie Engman
+0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270:215000000:215999999 #Gazers by Matt Kane
+0xdfde78d2baec499fe18f2be74b6c287eed9511d7:3000000:3999999 #Genesis by Claire Silver
+0x059edd72cd353df5106d2b9cc5ab83a52287ac3a:1000000:1999999 #Genesis by DCA
+0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270:301000000:301999999 #Hōrō by makio135
+0xc332fa232ab53628d0e9acbb806c5ee5a82b3467 #Hypnagogic by rudxane
+0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270:228000000:228999999 #Incomplete Control by Tyler Hobbs
+0xfd6a5540ad049853420c42bbd46c01fd5c9e5f5a #Interwoven by Emily Xie
+0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676:52000000:52999999 #Kumono Shingou by zancan
+0xdfde78d2baec499fe18f2be74b6c287eed9511d7:15000000:15999999 #Life In West America by Roope Rainisto
+0xe31cc44e305955fa5965addb42641832e9a5502f #Light Years by Dmitri Cherniak - Selection Pass
+0x082dcab372505ae56eafde58204ba5b12ff3f3f5 #Light Years by Dmitri Cherniak
+0x786c4fda034d2fdc15753611329721eabd39a53a #Lo and Behold by Pierre Zandrowicz
+0x4d928ab507bf633dd8e68024a1fb4c99316bbdf3 #LOVE Tennis Art Project by Martin Grasser
+0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270:282000000:282999999 #Memories of Qilin by Emily Xie
+0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270:163000000:163999999 #Meridian by Matt DesLauriers
+0x145789247973c5d612bf121e9e4eef84b63eb707:0:999999 #Metropolis by mpkoz
+0xe280ad55641fe3278de319011ddf462a0f1edd97 #Mindscape by Katie Morris
+0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676:10000000:10999999 #Off Script by Emily Xie
+0x6339e5e072086621540d0362c4e3cea0d643e114 #Opepen Edition
+0x1951d5ac7def157a755f5038c06a681b499b8624 #Nakamigos Opepen Edition
+0x99a9b7c1116f9ceeb1652de04d5969cce509b069:379000000:379999999 #ORI by James Merrill
+0x747c47c05db872938ec17d6935f8f1dcba129399 #Pink. Unidentified. Such a Useless Color! by Simon Raion
+0xdfde78d2baec499fe18f2be74b6c287eed9511d7:2000000:2999999 #podGANs by Pindar Van Arman
+0x9bf53d8c65f03d895dacaa776cc960e462ecb599 #Primera by Mitchell and Yun
+0xc73b17179bf0c59cd5860bb25247d1d1092c1088 #QQL Mint Pass
+0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270:341000000:341999999 #RASTER by itsgalo
+0x99a9b7c1116f9ceeb1652de04d5969cce509b069:415000000:415999999 #Renders Game by MountVitruvius
+0x66bcf059b2d8db6cd10615cdd781828db58268cf #REWORLD by Roope Rainisto
+0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270:13000000:13999999 #Ringers by Dmitri Cherniak
+0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270:255000000:255999999 #Screens by Thomas Lin Pedersen
+0x5c50cd793e9d5a7c6a49e532150d8406cdc81172 #Screens by Thomas Lin Pedersen V2
+0x8a2cc211cbba1dc896d1939c4c43778a72d6362f #SOL - 365
+0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270:330000000:330999999 #Squares by Martin Grasser
+0x5116edd4ac94d6aeb54b5a1533ca51a7e0c86807 #Station3 Patron
+0x720786231ddf158ebd23bd590f73b29bff78d783 #Strands of Solitude by William Mapan
+0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270:53000000:53999999 #Subscapes by Matt DesLauriers
+0xa4f6105b612f913e468f6b27fcbb48c3569acbe7 #TECTONICS by mpkoz
+0x4e1f41613c9084fdb9e34e11fae9412427480e56 #Terraforms by Mathcastles
+0xd90829c6c6012e4dde506bd95d7499a04b9a56de #The Broken Keys
+0x99a9b7c1116f9ceeb1652de04d5969cce509b069:399000000:399999999 #The Field by Beervangeer
+0x6e0b42c9139943404937e196b99d835d1af4c604 #The Great Freeze by Antti Karppinen
+0x99a9b7c1116f9ceeb1652de04d5969cce509b069:407000000:407999999 #The Harvest by Per Kristian Stoveland
+0x33fd426905f149f8376e227d0c9d3340aad17af1 #The Memes by 6529
+0xe034bb2b1b9471e11cf1a0a9199a156fb227aa5d #Themes and Variations by Vera Molnár, in collaboration with Martin Grasser
+0x59213ae27c9f6014a788358f623a0e626140f0cd #Truther by AI.S.A.M
+0x3c28de567d1412b06f43b15e9f75129625fa6e8c #Justin Aversano - Twin Flames - Collection of 100 Twin Portraits
+0x6864cc3b8cfdcfa8cfb22e9fe732cc6feff4e740 #Velocity Series: Velocity Pass
+0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676:34000000:34999999 #Velum by Harvey Rayner | patterndotco
+0xb6329bd2741c4e5e91e26c4e653db643e74b2b19:opensea-wall-by-tyler-hobbs #Wall by Tyler Hobbs
+0x509a050f573be0d5e01a73c3726e17161729558b #Where My Vans Go
+0x7a63d17f5a59bca04b6702f461b1f1a1c59b100b #Winds of Yawanawa by Yawanawa and Refik Anadol
+0xc143bbfcdbdbed6d454803804752a064a622c1f3:0:665 #Grifters by XCOPY
+0x510647c2064c4b1cc32bfb19d04b3919f0020559 #Yamabushi's Horizons by Richard Nadler
+0xda6558fa1c2452938168ef79dfd29c45aba8a32b #Sam Spratt - LUCI: Chapter 5 - The Monument Game

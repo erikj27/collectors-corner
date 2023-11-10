@@ -1,0 +1,24 @@
+{
+    "name": "collectors-corner",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "type": "module",
+    "scripts": {
+        "watch": "tsc --watch"
+    },
+    "dependencies": {
+        "@types/node": "^20.9.0",
+        "@types/node-fetch": "^2.6.9",
+        "dotenv": "^16.3.1",
+        "exceljs": "^4.4.0",
+        "googleapis": "^126.0.1",
+        "node-fetch": "^3.3.2",
+        "ts-node": "^10.9.1",
+        "typescript": "^5.2.2"
+    },
+    "devDependencies": {
+        "axios": "^1.6.1",
+        "nodemon": "^3.0.1"
+    }
+}
